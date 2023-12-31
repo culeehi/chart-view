@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T19:11:45.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0MyDljv9ev0DorQD3FXc" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T18:26:04.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ecgOM3ZggW0jU5XymuYi" version="22.1.15" type="github">
   <diagram name="Trang-1" id="vse7chXf3SuS5H8jWrB4">
-    <mxGraphModel dx="2190" dy="2140" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="1820" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,8 +233,8 @@
         <mxCell id="RfqzhYnpAA3-mhGD6zS5-66" value="Chọn bài kiểm tra từ question bank" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="440" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RfqzhYnpAA3-mhGD6zS5-67" value="Chọn bài câu hỏi từ question bank" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="550" width="140" height="70" as="geometry" />
+        <mxCell id="RfqzhYnpAA3-mhGD6zS5-67" value="Chọn câu hỏi từ question bank" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="550" width="193" height="69" as="geometry" />
         </mxCell>
         <mxCell id="RfqzhYnpAA3-mhGD6zS5-68" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.78;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RfqzhYnpAA3-mhGD6zS5-66" edge="1">
           <mxGeometry x="-0.0029" relative="1" as="geometry">
@@ -418,7 +418,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xpnQ1j4sd_GU49V53_zF-1" value="Use case tổng quan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xpnQ1j4sd_GU49V53_zF-1" value="Use case tổng quan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="-940" width="117" height="28" as="geometry" />
         </mxCell>
       </root>
