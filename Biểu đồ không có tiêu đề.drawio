@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T18:26:14.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0Mj-sCL2qPMmJNNEBxNc" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T15:16:14.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tHh3NS0nfbN7c2oCsHxC" version="22.1.15" type="github">
   <diagram name="Trang-1" id="vse7chXf3SuS5H8jWrB4">
     <mxGraphModel dx="1621" dy="1820" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -29,18 +29,18 @@
           <mxGeometry x="304" y="480" width="126" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_DOPlGCc2s2r6ARA6qzJ-51" value="Kết quả học sinh theo bài kiểm tra" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="890" width="150" height="60" as="geometry" />
+          <mxGeometry x="74" y="880" width="161" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_DOPlGCc2s2r6ARA6qzJ-52" value="Thông tin sinh viên" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="324" y="780" width="150" height="50" as="geometry" />
+        <mxCell id="_DOPlGCc2s2r6ARA6qzJ-52" value="Thông tin học sinh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="324" y="780" width="124" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="_DOPlGCc2s2r6ARA6qzJ-53" value="Hiển thị số câu đúng/sai sinh viên" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="900" width="130" height="80" as="geometry" />
+        <mxCell id="_DOPlGCc2s2r6ARA6qzJ-53" value="Thông tin bài làm học sinh" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="900" width="165" height="67" as="geometry" />
         </mxCell>
         <mxCell id="_DOPlGCc2s2r6ARA6qzJ-54" value="Xuất dữ liệu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="1056" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_DOPlGCc2s2r6ARA6qzJ-56" value="Tạo Bài kiểm tra mới" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_DOPlGCc2s2r6ARA6qzJ-56" value="Tạo bài kiểm tra mới" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="297.5" y="360" width="142.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RfqzhYnpAA3-mhGD6zS5-2" value="Học sinh" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -234,7 +234,7 @@
           <mxGeometry x="520" y="440" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RfqzhYnpAA3-mhGD6zS5-67" value="Chọn câu hỏi từ question bank" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="550" width="178" height="50" as="geometry" />
+          <mxGeometry x="520" y="550" width="200" height="59" as="geometry" />
         </mxCell>
         <mxCell id="RfqzhYnpAA3-mhGD6zS5-68" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.78;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RfqzhYnpAA3-mhGD6zS5-66" edge="1">
           <mxGeometry x="-0.0029" relative="1" as="geometry">
